@@ -1,0 +1,4 @@
+.temp/
+.branches/
+*.log
+local-patch.sql

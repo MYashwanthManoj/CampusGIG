@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+.env*
+!.env.example
+playwright-report/
+test-results/
+tests/e2e/artifacts/
+.playwright-mcp/
+supabase/.temp/
+supabase/.branches/
+*.log
+*.bak
